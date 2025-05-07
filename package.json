@@ -4,8 +4,9 @@
   "description": "JS Assignment Repository",
   "main": "colorCoder.js",
   "scripts": {
-    "start": "node app/colorCoder.js"
+    "start": "node app/src/colorCoder.js"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/clean-s-1/well-named-in-js.git"
